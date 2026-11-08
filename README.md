@@ -42,7 +42,7 @@ I am an Information Technology student at Politeknik Negeri Malang passionate ab
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=radithferd&show_icons=true&theme=radium&hide_border=true" alt="Radith's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radithferd&theme=radium&hide_border=true" alt="Radith's GitHub Streak" />
 </p>
 
 ---
