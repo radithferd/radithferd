@@ -40,13 +40,6 @@ I am an Information Technology student at Politeknik Negeri Malang passionate ab
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radithferd&theme=radium&hide_border=true" alt="Radith's GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 * 🌐 **Portfolio:** [radithferd.github.io](https://radithferd.github.io/)
 * 💼 **LinkedIn:** [Radith Ferdian Hibawan](https://www.linkedin.com/in/radith-ferdian-hibawan)
